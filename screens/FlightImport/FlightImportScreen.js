@@ -111,7 +111,7 @@ const FlightImportScreen = ({navigation, route}) => {
           backgroundColor: COLORS.primaryALS,
           marginTop: Platform.OS == 'ios' ? 30 : 0,
         }}
-        title="Lịch Bay"
+        title="Lịch Bay HUY"
         leftComponent={
           <TouchableOpacity
             // eslint-disable-next-line react-native/no-inline-styles
